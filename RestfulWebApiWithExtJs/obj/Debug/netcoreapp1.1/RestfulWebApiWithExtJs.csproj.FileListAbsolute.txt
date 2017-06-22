@@ -1,0 +1,8 @@
+D:\Learning\YaP\c#\Web API\WebApi-ExtJs-MS-SQL\RestfulWebApiWithExtJs\bin\Debug\netcoreapp1.1\RestfulWebApiWithExtJs.deps.json
+D:\Learning\YaP\c#\Web API\WebApi-ExtJs-MS-SQL\RestfulWebApiWithExtJs\bin\Debug\netcoreapp1.1\RestfulWebApiWithExtJs.runtimeconfig.json
+D:\Learning\YaP\c#\Web API\WebApi-ExtJs-MS-SQL\RestfulWebApiWithExtJs\bin\Debug\netcoreapp1.1\RestfulWebApiWithExtJs.runtimeconfig.dev.json
+D:\Learning\YaP\c#\Web API\WebApi-ExtJs-MS-SQL\RestfulWebApiWithExtJs\bin\Debug\netcoreapp1.1\RestfulWebApiWithExtJs.dll
+D:\Learning\YaP\c#\Web API\WebApi-ExtJs-MS-SQL\RestfulWebApiWithExtJs\bin\Debug\netcoreapp1.1\RestfulWebApiWithExtJs.pdb
+D:\Learning\YaP\c#\Web API\WebApi-ExtJs-MS-SQL\RestfulWebApiWithExtJs\obj\Debug\netcoreapp1.1\RestfulWebApiWithExtJs.AssemblyInfo.cs
+D:\Learning\YaP\c#\Web API\WebApi-ExtJs-MS-SQL\RestfulWebApiWithExtJs\obj\Debug\netcoreapp1.1\RestfulWebApiWithExtJs.dll
+D:\Learning\YaP\c#\Web API\WebApi-ExtJs-MS-SQL\RestfulWebApiWithExtJs\obj\Debug\netcoreapp1.1\RestfulWebApiWithExtJs.pdb
